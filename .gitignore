@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de configuración específicos de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema específicos del SO
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración y build temporales
+build/
+dist/
+*.egg-info/
+
+# Archivos y directorios generados por herramientas de despliegue
+.env
+web-test/
