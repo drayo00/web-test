@@ -1,1 +1,2 @@
 prueba en una nueva rama
+Segundo cambio en la rama 1 para después intentar volver al anterior
